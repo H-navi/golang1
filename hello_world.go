@@ -1,5 +1,5 @@
-package go_hellow_world
+package go_hello_world
 
 func HelloWorld() string {
-	return "Hello"
+	return "Hello World!"
 }
